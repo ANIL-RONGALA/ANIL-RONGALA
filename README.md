@@ -35,7 +35,7 @@ A C++ ray tracing engine with scene parsing, lighting, and shading. Uses multith
 ### 🔹 [UVM-Based ALU Testbench](https://github.com/ANIL-RONGALA)
 Custom ALU verification using SystemVerilog and UVM. Designed testbenches with sequencers, monitors, and TLM communication.
 
-### 🔹 Step Counter with FreeRTOS
+### 🔹 [Step Counter with FreeRTOS](https://github.com/ANIL-RONGALA)
 Embedded step counter using STM32L4 and FreeRTOS, with I2C, SPI, and real-time sensor integration.
 
 ### 🔹 [ROM-Based FPGA Morse Code Challenge](https://github.com/ANIL-RONGALA)
