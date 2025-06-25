@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Anil Rongala
-🔗 [LinkedIn](https://linkedin.com/in/anil-rongala-8308a6211) | 🔗 [GitHub](https://github.com/ANIL-RONGALA)
+🔗 [LinkedIn](https://www.linkedin.com/in/anil-rongala/) | 🔗 [GitHub](https://github.com/ANIL-RONGALA)
 
 ---
 ## 👨‍🎓 About Me
