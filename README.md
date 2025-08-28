@@ -56,6 +56,6 @@ Designed a real-time digital temperature monitor using ADC + UART on MSP430.
 ## 📈 Let's Connect!
 
 I'm always looking for exciting collaborations in **embedded systems**, **EDA tools**, and **hardware acceleration**.  
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/anil-rongala-8308a6211) or check out more of my work on [GitHub](https://github.com/ANIL-RONGALA).
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/anil-rongala) or check out more of my work on [GitHub](https://github.com/ANIL-RONGALA).
 
 ---
