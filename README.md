@@ -45,6 +45,7 @@ Verilog-based FPGA game featuring authentication, score tracking, and ROM/RAM-ba
 Designed a real-time digital temperature monitor using ADC + UART on MSP430.
 
 ### 🔹 [UART-Controller-Design-Verification-SystemVerilog-UVM](https://github.com/ANIL-RONGALA)
+Implemented and verified a memory-mapped UART controller in SystemVerilog using a UVM testbench.
 
 ---
 
