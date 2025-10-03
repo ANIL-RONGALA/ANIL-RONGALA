@@ -44,6 +44,8 @@ Verilog-based FPGA game featuring authentication, score tracking, and ROM/RAM-ba
 ### 🔹 [Digital Temp Monitor (MSP430)](https://github.com/ANIL-RONGALA)
 Designed a real-time digital temperature monitor using ADC + UART on MSP430.
 
+### 🔹
+
 ---
 
 ## 📚 Education
