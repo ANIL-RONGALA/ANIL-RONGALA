@@ -12,7 +12,7 @@ My goal is to help create next-generation EDA systems that learn from hardware b
 
 ---
 
-## 🔬 ResearchAnil Rongala Interests
+# 🔬 ResearchAnil Rongala Interests
 
 I’m deeply interested in the role of learning-based approaches in modern hardware design and verification.
 My current work and long-term vision align with:
@@ -45,7 +45,7 @@ My current work and long-term vision align with:
 I enjoy research that combines theoretical modeling with practical hardware/software implementation, especially when it improves design automation.
 ---
 
-## 🛠️ Highlight Projects
+# 🛠️ Highlight Projects
 
 ### 🔹 [systolic-NN-accelerator-on-FPGA-with-metrics](https://github.com/ANIL-RONGALA)
 Hardware–AI co-design project implementing a systolic array for parallel MAC operations.
@@ -73,7 +73,7 @@ Created a coverage-driven UVM testbench to verify frame formats, timing behavior
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Technical Skills
 
 ## Programming & Modeling
 • C, C++, Python
@@ -108,7 +108,7 @@ Created a coverage-driven UVM testbench to verify frame formats, timing behavior
 • GitHub, Vercel, Linux dev
 • Debugging tools & logic analyzers
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 • AI-driven verification frameworks
 • Learning-based EDA modeling
@@ -119,14 +119,14 @@ Created a coverage-driven UVM testbench to verify frame formats, timing behavior
 
 ---
 
-## 📚 Education
+# 📚 Education
 
 **University of Houston** — MS in Electrical Engineering *(Aug 2023 – May 2025)*  
 **Raghu Institute of Technology** — B.Tech in Electrical and Electronics Engineering *(2018 – 2022)*
 
 ---
 
-## 📈 Let's Connect!
+# 📈 Let's Connect!
 
 I'm always looking for exciting collaborations in **AI-assisted EDA, intelligent verification, and hardware–AI co-design.**.
 Feel free to reach out via [LinkedIn](https://linkedin.com/in/anil-rongala) or check out more of my work on [GitHub](https://github.com/ANIL-RONGALA).
