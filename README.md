@@ -51,7 +51,7 @@ I enjoy research that combines theoretical modeling with practical hardware/soft
 Hardware–AI co-design project implementing a systolic array for parallel MAC operations.
 Includes PE array, on-chip buffering, scheduling, flow control, and performance analysis.
 
-### 🔹 [Intelligent UVM Verification Environment (ALU)](https://github.com/ANIL-RONGALA)
+### 🔹 [Coverage-Driven-ALU-UVM-Verification-Framework](https://github.com/ANIL-RONGALA)
 A complete SystemVerilog UVM testbench with functional coverage, constrained-random verification, assertions, and scoreboarding.
 Demonstrates strong foundations for AI-accelerated verification research.
 
