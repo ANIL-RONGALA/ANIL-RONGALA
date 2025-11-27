@@ -56,6 +56,7 @@ A complete SystemVerilog UVM testbench with functional coverage, constrained-ran
 Demonstrates strong foundations for AI-accelerated verification research.
 
 ### 🔹 [Multi Sensor Step Detection and Activity Profiling on an STM32 Edge Platform](https://github.com/ANIL-RONGALA/Multi-Sensor-Step-Detection-and-Activity-Profiling-on-an-STM32-Edge-Platform).
+
 A multi-sensor STM32 system that performs real-time step, distance, and calorie estimation using IMU-based motion analysis.
 Optimized for low-latency, low-power edge operation with interrupt-driven processing.
 
@@ -63,7 +64,7 @@ Optimized for low-latency, low-power edge operation with interrupt-driven proces
 A timing-based Morse signal decoder implemented on an Intel Cyclone-V FPGA using ROM-based micro-architecture.
 Includes RAM score tracking, debounced input logic, and a SystemVerilog verification framework.
 
-### 🔹 [Multithreaded Ray Tracer](https://github.com/ANIL-RONGALA/Multithreaded-Ray-Tracer)
+### 🔹 [Multithreaded Ray Tracer with Scene Parsing](https://github.com/ANIL-RONGALA/Multithreaded-Ray-Tracer-with-Scene-Parsing)
 A C++ ray tracing engine with scene parsing, lighting, and shading. 
 Uses multithreading for faster performance and outputs rendered images in BMP format.
 
