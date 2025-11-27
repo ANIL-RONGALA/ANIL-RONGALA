@@ -47,27 +47,27 @@ I enjoy research that combines theoretical modeling with practical hardware/soft
 
 # 🛠️ Highlight Projects
 
-### 🔹 [systolic-NN-accelerator-on-FPGA-with-metrics](https://github.com/ANIL-RONGALA/systolic-NN-accelerator-on-FPGA-with-metrics)
+### 🔹 [systolic NN accelerator on FPGA with metrics](https://github.com/ANIL-RONGALA/systolic-NN-accelerator-on-FPGA-with-metrics)
 Hardware–AI co-design project implementing a systolic array for parallel MAC operations.
 Includes PE array, on-chip buffering, scheduling, flow control, and performance analysis.
 
-### 🔹 [Coverage-Driven-ALU-UVM-Verification-Framework](https://github.com/ANIL-RONGALA/Coverage-Driven-ALU-UVM-Verification-Framework)
+### 🔹 [Coverage Driven ALU UVM Verification Framework](https://github.com/ANIL-RONGALA/Coverage-Driven-ALU-UVM-Verification-Framework)
 A complete SystemVerilog UVM testbench with functional coverage, constrained-random verification, assertions, and scoreboarding.
 Demonstrates strong foundations for AI-accelerated verification research.
 
-### 🔹 [Multi-Sensor Step Detection and Activity Profiling on an STM32 Edge Platform](https://github.com/ANIL-RONGALA/Multi-Sensor Step Detection and Activity Profiling on an STM32 Edge Platform)
+### 🔹 [Multi Sensor Step Detection and Activity Profiling on an STM32 Edge Platform](https://github.com/ANIL-RONGALA/Multi-Sensor-Step-Detection-and-Activity-Profiling-on-an-STM32-Edge-Platform).
 A multi-sensor STM32 system that performs real-time step, distance, and calorie estimation using IMU-based motion analysis.
 Optimized for low-latency, low-power edge operation with interrupt-driven processing.
 
-### 🔹 [FPGA Morse-Code Decoder with Automated Verification and ROM-Based Micro-architecture Optimization](https://github.com/ANIL-RONGALA/FPGA Morse-Code Decoder with Automated Verification and ROM-Based Micro-architecture Optimization)
+### 🔹 [FPGA Morse Code Decoder with Automated Verification and ROM-Based Micro-architecture Optimization](https://github.com/ANIL-RONGALA/FPGA-Morse-Code-Decoder-with-Automated-Verification-and-ROM-Based-Micro-architecture-Optimization)
 A timing-based Morse signal decoder implemented on an Intel Cyclone-V FPGA using ROM-based micro-architecture.
 Includes RAM score tracking, debounced input logic, and a SystemVerilog verification framework.
 
-### 🔹 [Multithreaded Ray Tracer](https://github.com/ANIL-RONGALA/Multithreaded Ray Tracer)
+### 🔹 [Multithreaded Ray Tracer](https://github.com/ANIL-RONGALA/Multithreaded-Ray-Tracer)
 A C++ ray tracing engine with scene parsing, lighting, and shading. 
 Uses multithreading for faster performance and outputs rendered images in BMP format.
 
-### 🔹 [UART Serial Interface IP with Constrained-Random UVM Verification](https://github.com/ANIL-RONGALA/UART Serial Interface IP with Constrained-Random UVM Verification)
+### 🔹 [UART Serial Interface IP with Constrained-Random UVM Verification](https://github.com/ANIL-RONGALA/UART-Serial-Interface-IP-with-Constrained-Random-UVM-Verification)
 Built a synthesizable UART IP with memory-mapped registers and protocol-level error detection.
 Created a coverage-driven UVM testbench to verify frame formats, timing behavior, and corner-case scenarios.
 
