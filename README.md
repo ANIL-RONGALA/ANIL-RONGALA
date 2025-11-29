@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Anil Rongala
 🔗 [LinkedIn](https://www.linkedin.com/in/anil-rongala/) | 🔗 [GitHub](https://github.com/ANIL-RONGALA)
 
----
 ## 👨‍🎓 About Me
 ---
 AI-EDA • Hardware–AI Co-Design • Intelligent Verification • Edge AI Systems
