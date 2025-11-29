@@ -3,7 +3,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/anil-rongala/) | 🔗 [GitHub](https://github.com/ANIL-RONGALA)
 
 ## 👨‍🎓 About Me
----
+
 AI-EDA • Hardware–AI Co-Design • Intelligent Verification • Edge AI Systems
 Graduate Engineer working at the intersection of machine learning, hardware design, and embedded intelligence.
 I build learning-assisted verification flows, accelerator architectures, adaptive embedded platforms, and exploratory system tools that bridge the gap between algorithms and circuits.
