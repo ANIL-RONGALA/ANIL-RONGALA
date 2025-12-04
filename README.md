@@ -12,7 +12,7 @@ My goal is to help create next-generation EDA systems that learn from hardware b
 
 ---
 
-# 🔬 ResearchAnil Rongala Interests
+# 🔬 Research Interests
 
 I’m deeply interested in the role of learning-based approaches in modern hardware design and verification.
 My current work and long-term vision align with:
