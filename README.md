@@ -1,135 +1,92 @@
 # 👋 Hi, I'm Anil Rongala
----
-🔗 [LinkedIn](https://www.linkedin.com/in/anil-rongala/) | 🔗 [GitHub](https://github.com/ANIL-RONGALA)
 
-## 👨‍🎓 About Me
+### Digital Design & Verification Engineer | FPGA Prototyping | AI-Assisted EDA | Exploring Hardware Reliability & Trust
 
-AI-EDA • Hardware–AI Co-Design • Intelligent Verification • Edge AI Systems
-Graduate Engineer working at the intersection of machine learning, hardware design, and embedded intelligence.
-I build learning-assisted verification flows, accelerator architectures, adaptive embedded platforms, and exploratory system tools that bridge the gap between algorithms and circuits.
-
-My goal is to help create next-generation EDA systems that learn from hardware behavior and automatically optimize design, timing, and verification.
+🔗 [**LinkedIn**](https://linkedin.com/in/anil-rongala) | 🔗 [**Email**](mailto:anilr.edu2023@gmail.com)
 
 ---
 
-# 🔬 Research Interests
+### 👨‍🎓 About Me
 
-I’m deeply interested in the role of learning-based approaches in modern hardware design and verification.
-My current work and long-term vision align with:
+I am a **Digital Verification Engineer and Researcher** working at the intersection of **Scalable Validation**, **FPGA Prototyping**, and **Hardware Assurance**.
 
-## AI for EDA & Verification Automation
-• Intelligent test generation
-• Coverage-driven learning
-• Behavioral modeling and timing prediction
-• Automated stimulus synthesis
-• Data-driven IP verification frameworks
+As semiconductor complexity scales, "functional correctness" is no longer enough—we need **Assurance**. My work bridges the gap between standard industry verification (SystemVerilog/UVM) and emerging research in **Hardware Trust, Real-Time FPGA Prototyping, and Reliability**.
 
-## Hardware–AI Co-Design
-• Neural accelerator microarchitectures
-• Systolic arrays, PE designs, memory tiling
-• HW-SW co-optimization for ML workloads
-• Architecture behavior modeling
-
-## Edge AI & Embedded Intelligence
-• MCU-level AI inference
-• Sensor fusion & IMU pipelines
-• Real-time embedded systems
-• RTOS-based control (TI-RTOS, FreeRTOS)
-
-## Systems & Exploration
-• Memory behavior modeling
-• Multi-threaded computation
-• Design space exploration
-• Small-scale robotics and autonomous sensing
-
-I enjoy research that combines theoretical modeling with practical hardware/software implementation, especially when it improves design automation.
----
-
-# 🛠️ Highlight Projects
-
-### 🔹 [systolic NN accelerator on FPGA with metrics](https://github.com/ANIL-RONGALA/systolic-NN-accelerator-on-FPGA-with-metrics)
-Hardware–AI co-design project implementing a systolic array for parallel MAC operations.
-Includes PE array, on-chip buffering, scheduling, flow control, and performance analysis.
-
-### 🔹 [Coverage Driven ALU UVM Verification Framework](https://github.com/ANIL-RONGALA/Coverage-Driven-ALU-UVM-Verification-Framework)
-A complete SystemVerilog UVM testbench with functional coverage, constrained-random verification, assertions, and scoreboarding.
-Demonstrates strong foundations for AI-accelerated verification research.
-
-### 🔹 [Multi Sensor Step Detection and Activity Profiling on an STM32 Edge Platform](https://github.com/ANIL-RONGALA/Multi-Sensor-Step-Detection-and-Activity-Profiling-on-an-STM32-Edge-Platform).
-
-A multi-sensor STM32 system that performs real-time step, distance, and calorie estimation using IMU-based motion analysis.
-Optimized for low-latency, low-power edge operation with interrupt-driven processing.
-
-### 🔹 [FPGA Morse Code Decoder with Automated Verification and ROM-Based Micro-architecture Optimization](https://github.com/ANIL-RONGALA/FPGA-Morse-Code-Decoder-with-Automated-Verification-and-ROM-Based-Micro-architecture-Optimization)
-A timing-based Morse signal decoder implemented on an Intel Cyclone-V FPGA using ROM-based micro-architecture.
-Includes RAM score tracking, debounced input logic, and a SystemVerilog verification framework.
-
-### 🔹 [Multithreaded Ray Tracer with Scene Parsing](https://github.com/ANIL-RONGALA/Multithreaded-Ray-Tracer-with-Scene-Parsing)
-A C++ ray tracing engine with scene parsing, lighting, and shading. 
-Uses multithreading for faster performance and outputs rendered images in BMP format.
-
-### 🔹 [UART Serial Interface IP with Constrained-Random UVM Verification](https://github.com/ANIL-RONGALA/UART-Serial-Interface-IP-with-Constrained-Random-UVM-Verification)
-Built a synthesizable UART IP with memory-mapped registers and protocol-level error detection.
-Created a coverage-driven UVM testbench to verify frame formats, timing behavior, and corner-case scenarios.
+I combine the discipline of a Verification Engineer (architecting rigorous UVM testbenches) with the curiosity of a Researcher (investigating how hardware fails via physical noise, logic bugs, or security vulnerabilities).
 
 ---
 
-# 🛠 Technical Skills
+### 🔬 Research & Technical Focus
 
-## Programming & Modeling
-• C, C++, Python
-• SystemVerilog (UVM), SV Assertions
-• Embedded C (ARM Cortex-M, STM32)
-• Multithreading, memory models
-• Algorithmic design & systems programming
+I am deeply interested in bridging the gap between theoretical models and physical hardware behavior:
 
-## Hardware / Verification / CAD
-• RTL design, testbenches, FSMs
-• UVM, ModelSim, QuestaSim
-• Vivado, Quartus Prime
-• PrimeTime timing concepts
-• FPGA implementation, synthesis basics
-• Assertions, randomization, coverage, scoreboarding
-
-## AI / ML
-• Regression models, SVM, PCA
-• Classification pipelines, feature engineering
-• Embedded ML on MCUs
-• Understanding of accelerator workloads and memory behavior
-
-## Embedded / RTOS / Robotics
-• TI-RTOS, FreeRTOS
-• Sensor fusion (IMU, accelerometer)
-• Real-time control, low-power systems
-• UART/ADC/PWM/I2C/SPI
-• Small-scale robotics & autonomous sensing
-
-## Tools & Dev Environment
-
-• GitHub, Vercel, Linux dev
-• Debugging tools & logic analyzers
-
-# 🎯 Current Focus
-
-• AI-driven verification frameworks
-• Learning-based EDA modeling
-• Co-design of hardware + ML workloads
-• Accelerator design and memory behavior
-• Real-time embedded AI systems
-• Experimental robotics + sensing
+* **Hardware Assurance & Trust:** Adapting verification flows to detect logic vulnerabilities, architectural anomalies, and reliability failures.
+* **FPGA Prototyping:** Validating theoretical models against real-time physical behavior (latency, noise, and jitter) using Xilinx/Intel platforms.
+* **Intelligent Verification:** Using data-driven methods (AI/ML) to predict verification hotspots and automate coverage closure.
+* **Real-Time Embedded Systems:** Designing deterministic control systems with strict timing constraints (RTOS-based).
 
 ---
 
-# 📚 Education
+### 🛠️ Highlight Projects
 
-**University of Houston** — MS in Electrical Engineering *(Aug 2023 – May 2025)*  
-**Raghu Institute of Technology** — B.Tech in Electrical and Electronics Engineering *(2018 – 2022)*
+#### 🔹 [FPGA-Based Secure Interaction System: Authentication & State Persistence](LINK_TO_REPO)
+* **Focus:** Hardware Security & System Integration
+* Designed a hardware-root-of-trust prototype on **Intel Cyclone V**, unifying authentication, difficulty scaling, and state persistence.
+* Implemented **ROM-protected credential storage** and FSM-based access control.
+* Validated secure state transitions and score persistence in RAM modules under strict timing constraints.
+
+#### 🔹 [Coverage-Driven Reliability Framework for Digital Logic (UVM)](LINK_TO_REPO)
+* **Focus:** Advanced Verification & Reliability
+* Architected a complete **SystemVerilog UVM testbench** (Sequencer, Driver, Scoreboard) for a 32-bit ALU.
+* Implemented functional coverage models to eliminate "coverage plateaus" and stress-test logic against **adversarial corner cases**.
+* Demonstrates the rigorous validation mindset required for both industrial sign-off and hardware assurance research.
+
+#### 🔹 [Autonomous Mobile Robot with TI-RTOS & PID Control](LINK_TO_REPO)
+* **Focus:** Real-Time Deterministic Control
+* Architected a multi-threaded firmware capability on the **TM4C123GH6PM (Tiva C)** using **TI-RTOS**.
+* Implemented a **PID feedback loop** and deterministic scheduling for sensor polling and actuator response.
+* Bridged the gap between control theory and real-time hardware execution.
+
+#### 🔹 [FPGA-Accelerated Architecture for High-Speed Data Processing](LINK_TO_REPO)
+* **Focus:** Hardware-Software Co-Design
+* Designed and synthesized a **Systolic Array on FPGA** to analyze dataflow bottlenecks.
+* Built a **cycle-accurate Python reference model** to validate hardware performance, identifying non-linear latency spikes caused by memory banking conflicts.
+* Validated the loop between high-level simulation and physical hardware behavior.
+
+#### 🔹 [AI-Driven Anomaly Detection for RTL Assurance](LINK_TO_REPO)
+* **Focus:** Machine Learning for Hardware
+* Developed a supervised learning framework using **Graph Neural Networks (GNNs)** to detect structural anomalies in Verilog RTL.
+* **Research Implication:** Validated that structure-aware embeddings can capture long-range signal dependencies—a technique applicable to identifying security vulnerabilities in complex netlists.
 
 ---
 
-# 📈 Let's Connect!
+### 🛠 Technical Skills
 
-I'm always looking for exciting collaborations in **AI-assisted EDA, intelligent verification, and hardware–AI co-design.**.
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/anil-rongala) or check out more of my work on [GitHub](https://github.com/ANIL-RONGALA).
+**Hardware Implementation**
+* Verilog RTL, SystemVerilog
+* FPGA Prototyping (Xilinx Vivado, Intel Quartus Prime)
+* Synthesis, Timing Analysis, FSM Design
+
+**Verification & Validation**
+* UVM (Universal Verification Methodology)
+* SystemVerilog Assertions (SVA)
+* Functional Coverage, Constrained-Random Testing
+
+**Modeling & Analysis**
+* Python (Scikit-Learn, PyTorch, NumPy)
+* Graph Neural Networks (GNNs)
+* Cycle-Accurate Simulation
+
+**Embedded & Real-Time**
+* C/C++, Assembly (ARM Cortex-M)
+* RTOS (TI-RTOS, FreeRTOS)
+* Protocols: UART, I2C, SPI, ADC
 
 ---
+
+### 🎯 Current Goals
+
+I am actively seeking **R&D / Verification Engineering roles** and **PhD opportunities** where I can apply my background in automated verification to solve next-generation challenges in **Hardware Security, Trust, and Robustness**.
+
+---
+*University of Houston — MS in Electrical Engineering (2023 – 2025)*
